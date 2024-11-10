@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+Jinja2
+psycopg2
+fastapi[postgres]
+python-dotenv
+sqlalchemy
+psycopg2-binary
